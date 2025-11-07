@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE74F5A-51BC-493B-94AF-A0F132E32F79}|ConsoleApp1\\XE.csproj|d:\\study\\4_hk1_2526\\laptrinhungdungnet\\btth\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE74F5A-51BC-493B-94AF-A0F132E32F79}|ConsoleApp1\\XE.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE74F5A-51BC-493B-94AF-A0F132E32F79}|ConsoleApp1\\XE.csproj|D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\consoleapp1\\qlxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE74F5A-51BC-493B-94AF-A0F132E32F79}|ConsoleApp1\\XE.csproj|solutionrelative:consoleapp1\\qlxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE74F5A-51BC-493B-94AF-A0F132E32F79}|ConsoleApp1\\XE.csproj|D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\consoleapp1\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE74F5A-51BC-493B-94AF-A0F132E32F79}|ConsoleApp1\\XE.csproj|solutionrelative:consoleapp1\\xe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Xe.cs",
+              "DocumentMoniker": "D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\ConsoleApp1\\Xe.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Xe.cs",
+              "ToolTip": "D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\ConsoleApp1\\Xe.cs",
+              "RelativeToolTip": "ConsoleApp1\\Xe.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:31:49.402Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLXe.cs",
+              "DocumentMoniker": "D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\ConsoleApp1\\QLXe.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\QLXe.cs",
+              "ToolTip": "D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\ConsoleApp1\\QLXe.cs",
+              "RelativeToolTip": "ConsoleApp1\\QLXe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T02:56:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\study\\4_HK1_2526\\LaptrinhungdungNET\\BTTH\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T03:14:45.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
